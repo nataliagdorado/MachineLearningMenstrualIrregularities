@@ -1,14 +1,21 @@
 # 🩸 Early Detection of Menstrual Irregularities using AI
 
+## Resources
+You can view or download the full project report in PDF format here:
+[Download Full Report (PDF)](https://drive.google.com/file/d/1_dYRaLaP3jO128QUYmdPuJpvj157BaGg/view?usp=sharing)
+
+You can watch the full presentation of the project here:
+[Watch Project Presentation](https://www.youtube.com/watch?v=0feW7Xa_eVM)
+
 ## 📋 Project Overview
 Menstrual health is a vital indicator of overall reproductive well-being. However, irregularities are often underestimated or misdiagnosed. This project leverages **Machine Learning and Deep Learning** to automate the detection of these patterns using objective clinical features.
+
+---
 
 **Clinical Motivation:**
 * **14-25%** of women suffer from menstrual irregularities.
 * These are often linked to chronic conditions like **PCOS, Endometriosis, and Anemia**.
 * **Goal:** To move beyond subjective diagnosis and use data to predict cycle irregularities early.
-
----
 
 ## 📊 Dataset & Features
 The study uses a clinical dataset of **10,000 patient records** with 16 attributes and one binary target variable.
