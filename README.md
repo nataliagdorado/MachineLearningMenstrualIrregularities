@@ -33,10 +33,10 @@ The study uses a clinical dataset of **10,000 patient records** with 16 attribut
 | `tracking_duration_months` | Reliability of historical data. |
 | `avg_cycle_length` | Average days between periods. |
 | `avg_bleeding_days` | Average duration of bleeding. |
-| `cycle_length_variation` | Standard deviation (fluctuation). |
+| `cycle_length_variation` | Variation. |
 | `cycle_variation_coeff` | Relative variability. |
 | `bleeding_volume_score` | Intensity of flow. |
-| `pain_score` | Dysmenorrhea severity (0-10). |
+| `pain_score` | Dysmenorrhea severity. |
 | `intermenstrual_episodes` | Count of spotting between cycles. |
 | `pattern_disruption_score` | Composite score of irregularity. |
 | `Oligomenorrhea` | Indicator for infrequent periods. |
