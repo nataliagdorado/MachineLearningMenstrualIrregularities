@@ -1,4 +1,4 @@
-# 🩸 Early Detection of Menstrual Irregularities using AI
+# 🩸 Early Detection of Menstrual Irregularities using AI 
 
 ## Resources
 You can view or download the full project report in PDF format here:
